@@ -1,0 +1,53 @@
+
+Intalar:
+-Python:
+ *agrego a PATH
+  C:\Users\tabor\AppData\Local\Programs\Python\Python38-32
+  C:\Users\tabor\AppData\Local\Programs\Python\Python38-32\Scripts
+-Ninja u otro IDE
+
+-actualiza PIP: 
+  pip3 install --upgrade pip (ver de acuerdo a SO puede variar. Con WINDOW pip, LINUX pip3) (pag8 u2)
+
+-Anaconda(opcional, incluye Jupyter)
+
+-Jupyter
+  pip3 install jupyter (pag 8 u2)
+
+-Opcional: pip install numpy (esta en Anaconda también) (clase u2, u3)
+
+-importar Pillow  (pag 23 u5)
+ pip install Pillow
+
+-BBDD:
+ -XAMPP Apache (pag 11 u6)
+ -conector python: pip install mysql-connector (pag 13 u6)
+ 
+ -DB BrowserSQLite
+ -SQLite3: No recuerdo si hay que instalar conector
+
+-Virtualbox(tener en cuenta para hacer maquina virtual en otro SO) (clase u6,u7)
+
+_Beautifulsoup:
+ pip install beautifulsoup4 (pag 8 u8)
+ pip install request (pag 8 u8)
+
+-setuptools:
+ pip install -U setuptools (pag 16 u2 Nivel Int.)
+
+-virtualenv:
+ pip install virtualenv  (pag 20 u2 Nivel Int.)
+
+_psutil:
+ pip install psutil
+
+-GIT (pag 16 u8 Nivel Int.)
+https://git-scm.com/  
+
+-pip install pandas
+ 
+-excel
+pip install xlwt
+
+-reportes
+pip install reportlab
